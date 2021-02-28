@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+
+
+cout<<"size of char:"<<sizef(char)<<byte",<<endl;;
+cout<<"size of int:"<<sizef(int)<<bytes",<<endl;;
+cout<<"size of float:"<<sizef(float)<<byte",<<endl;;
+cout<<"size of double:"<<sizef(double)<<byte",<<endl;
+return 0;
+
+}
